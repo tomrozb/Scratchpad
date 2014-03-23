@@ -1,15 +1,17 @@
 # Dependencies
-markdown:   redcarpet
+markdown:   kramdown
 pygments:   true
 
 # Permalinks
 permalink:  /blog/:title
 
 # Setup
-title:      Thinny
-tagline:    'blog'
+title:          Thinny
+tagline:        'blog'
 description:    'My personal blog.'
-url:        http://camporez.com
+url:            http://camporez.com
+commentsystem:  google
+disqus:         example
 
 author:
   name:     'Ian Camporez Brunelli'
@@ -40,13 +42,13 @@ social:
     
 menu:
   - title:  Home
-    url:    http://camporez.com
+    url:    /
     
   - title:  About
-    url:    http://camporez.com/about
+    url:    /about
     
 copyright:
-  author:   Camporez
-  url:      http://camporez.com
-  type_title:   Some rights reserved
-  type_url: http://creativecommons.org/licenses/by-nc/2.5
+  author:     Camporez
+  url:        http://camporez.com
+  type_title: Some rights reserved
+  type_url:   http://creativecommons.org/licenses/by-nc/2.5
