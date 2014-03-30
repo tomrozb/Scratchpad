@@ -6,16 +6,16 @@ pygments:   true
 permalink:  /blog/:title
 
 # Setup
-title:          Thinny
-tagline:        'blog'
-description:    'My personal blog.'
-url:            http://camporez.com
+title:          Tomasz Rozbicki
+tagline:        'Home'
+description:    ''
+url:            http://rozbicki.me
 commentsystem:  google
 disqus:         example
 
 author:
-  name:     'Ian Camporez Brunelli'
-  url:      https://google.com/+IanCamporezBrunelli
+  name:     'Tomasz Rozbicki'
+  url:      https://plus.google.com/u/0/105629608294015783184/
 
 paginate:   5
 
@@ -24,20 +24,20 @@ icon:       /assets/images/icon.png
 cover:      /assets/images/cover.jpg
 
 social:
-  - icon:   twitter
-    url:    https://twitter.com/iancamporez
-    desc:   Follow me on twitter
+#  - icon:   twitter
+#    url:    https://twitter.com/iancamporez
+#    desc:   Follow me on twitter
 
   - icon:   github
-    url:    https://github.com/camporez
+    url:    https://github.com/tomrozb
     desc:   Fork me on github
 
   - icon:   googleplus-alt
-    url:    https://google.com/+IanCamporezBrunelli
+    url:    https://plus.google.com/u/0/105629608294015783184/
     desc:   Add me on google+
 
   - icon:   feed
-    url:    http://camporez.com/atom.xml
+    url:    http://rozbicki.me/atom.xml
     desc:   Subscribe to my feed
     
 menu:
@@ -48,7 +48,7 @@ menu:
     url:    /about
     
 copyright:
-  author:     Camporez
+  author:     theme by Camporez
   url:        http://camporez.com
-  type_title: Some rights reserved
+  type_title: CC
   type_url:   http://creativecommons.org/licenses/by-nc/2.5
